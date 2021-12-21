@@ -1,0 +1,78 @@
+Status Report One
+
+QA Name: Cameron Robinson
+
+Assigned Feature: Employee Manager card
+
+Date: Dec. 21, 2021
+
+Date Due in QA Project Plan: Jan. 1, 2022
+
+Testing Progress: 60% complete, 4 of 9 test cases passed, 4 failures, 4 defects entered.
+
+Note: There are some features and bugs that need to be fixed and once fixed a new version can be deployed for testing, Will need 2 additional weeks to execute tests. Expected completion date: Jan. 15, 2022.
+
+
+
+Status Report Two
+QA Name: Cameron Robinson
+Date: Jan. 13, 2022
+Date Due in QA Project Plan: Jan. 15, 2022
+Testing Progress: 90% complete, 8 of 9 test cases passed, 1 failure, 1 defects entered.
+
+Note: I’m happy to inform you that we have met the deadline for a updated version to the app, We have addressed a lot of the issues and bugs and found extra things to add to the apps next updated version. We want to keep pushing and making this app better for you. Please let us know what we can do better after using this app. Thank you.
+
+
+
+Test Report 
+
+Project Information
+•	Employee Manager/version 2.0
+•	QA analyst: Cameron Robinson
+
+Test Objectives
+•	Testing Executed:
+o	Session base
+o	Exploratory
+o	Regression
+	Feature/Function
+	Integration
+o	Performance & Load
+o	Unit tests
+I did a lot of exploratory testing for 60 mins. Then 90 min. of Session base testing to look for bugs. I had a criteria that was tested also, but paid extra attention to the search bar and found bugs there. Name input had bug that was reported also.
+
+Test Execution Details
+•	Exploratory
+•	Session base
+•	Regression
+•	Performance and Load
+•	Unit testing
+Test Execution Results
+•	9 test
+•	6 passed 
+•	3 failed
+•	Cameron Robinson executed the tests
+Test Coverage
+•	Tested the Name, Phone number, Id, and email input
+Test Summary
+I started by looking at what version I was on to make sure that was correct first, I read thru the criteria that the app was suppose to do. I started with some exploratory testing for 60 min. Then went into some Session base testing for another 90 min. to be sure I didn’t miss anything obvious. I went on to testing the criteria that I receive from the BA and Scrum master on what is needed. I found some issues with the search bar and the name input section that I wrote a bug report on both issues. They are on the high priority list to be address for the next version update to the app.
+
+
+Question 3:
+I feel at this point the bootcamp I do feel qualified to test an application. I feel like exploratory testing is my strongest point right now for my level of education in the bootcamp. I can report defects and write bug reports. I like that I can look for errors and thing that everyday users come in contact with. I love tech and I feel like we all make mistakes and nothing is perfect, there for I can find bugs.
+
+Part Three.
+
+
+Agile Pros and Cons
+Pros	More flexible	Product get to market faster	Better communication
+Cons	Hard to predict	Final product is not released first	Documentation gets left behind
+
+
+
+
+Waterfall Pros and Cons
+Pros	Everyone gets up to speed quickly	Timescales are kept	No financial surprises
+Cons	Needs can be difficult to define	Potential lack of flexibility	Longer delivery time
+
+
