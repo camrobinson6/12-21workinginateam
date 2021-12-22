@@ -64,15 +64,15 @@ I feel at this point the bootcamp I do feel qualified to test an application. I 
 Part Three.
 
 
-Agile Pros and Cons
+Agile: Pros and Cons
 Pros	More flexible	Product get to market faster	Better communication
 Cons	Hard to predict	Final product is not released first	Documentation gets left behind
 
 
 
 
-Waterfall Pros and Cons
-Pros	Everyone gets up to speed quickly	Timescales are kept	No financial surprises
-Cons	Needs can be difficult to define	Potential lack of flexibility	Longer delivery time
+Waterfall: Pros and Cons
+Pros:	Everyone gets up to speed quickly,	Timescales are kept,	No financial surprises
+Cons:	Needs can be difficult to define,	Potential lack of flexibility,	Longer delivery time
 
 
